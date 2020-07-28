@@ -9,3 +9,4 @@ I'm a JavaScript and digital art enthusiast. You can find my links below.
 
 
 [![Vanaj's github stats](https://github-readme-stats.vercel.app/api?username=vanajmoorthy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanajmoorthy&layout=compact)
