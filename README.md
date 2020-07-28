@@ -1,5 +1,5 @@
 ### Hi there, I'm Vanaj 👋
-I'm a JavaScript and digital art enthusiast. You can find my links below.
+I'm a JavaScript and digital art enthusiast. Behold, my links.
 
 [Website](https://www.vanajmoorthy.com) •
 [Instagram](https://www.instagram.com/vanajmoorthy/) •
