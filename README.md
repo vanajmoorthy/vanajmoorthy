@@ -9,3 +9,5 @@ I'm a JavaScript and digital art enthusiast. Behold, my links.
 
 
 [![Vanaj's github stats](https://github-readme-stats.vercel.app/api?username=vanajmoorthy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V421KHZ)
