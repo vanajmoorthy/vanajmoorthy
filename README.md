@@ -1,5 +1,5 @@
 ### Hi there, I'm Vanaj 👋
-I'm a JavaScript and digital art enthusiast. Behold, my links.
+I'm a web development and digital art enthusiast. Find me through the links below.
 
 [Website](https://www.vanajmoorthy.com) •
 [Instagram](https://www.instagram.com/vanajmoorthy/) •
@@ -9,5 +9,3 @@ I'm a JavaScript and digital art enthusiast. Behold, my links.
 
 
 [![Vanaj's github stats](https://github-readme-stats.vercel.app/api?username=vanajmoorthy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V421KHZ)
