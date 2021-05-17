@@ -8,4 +8,4 @@ I'm a web development and digital art enthusiast. Find me through the links belo
 [Mail](mailto:vanajmoorthy@gmail.com)
 
 
-[![Vanaj's github stats](https://github-readme-stats.vercel.app/api?username=vanajmoorthy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Vanaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanajmoorthy&show_icons=true&theme=radical)
